@@ -1,0 +1,16 @@
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\bin\Debug\net9.0-windows\PrimaSchermata.exe
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\bin\Debug\net9.0-windows\PrimaSchermata.deps.json
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\bin\Debug\net9.0-windows\PrimaSchermata.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\bin\Debug\net9.0-windows\PrimaSchermata.dll
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\bin\Debug\net9.0-windows\PrimaSchermata.pdb
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.dll
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\refint\PrimaSchermata.dll
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.pdb
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\PrimaSchermata.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\PrimaSchermata\PrimaSchermata\obj\Debug\net9.0-windows\ref\PrimaSchermata.dll
