@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\bin\Debug\net9.0-windows\eta.exe
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\bin\Debug\net9.0-windows\eta.deps.json
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\bin\Debug\net9.0-windows\eta.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\bin\Debug\net9.0-windows\eta.dll
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\bin\Debug\net9.0-windows\eta.pdb
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.dll
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\refint\eta.dll
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.pdb
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\eta.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\eta\eta\obj\Debug\net9.0-windows\ref\eta.dll

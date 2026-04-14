@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\bin\Debug\net9.0-windows\costrutti.exe
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\bin\Debug\net9.0-windows\costrutti.deps.json
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\bin\Debug\net9.0-windows\costrutti.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\bin\Debug\net9.0-windows\costrutti.dll
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\bin\Debug\net9.0-windows\costrutti.pdb
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.dll
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\refint\costrutti.dll
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.pdb
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\costrutti.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\costrutti\costrutti\obj\Debug\net9.0-windows\ref\costrutti.dll
