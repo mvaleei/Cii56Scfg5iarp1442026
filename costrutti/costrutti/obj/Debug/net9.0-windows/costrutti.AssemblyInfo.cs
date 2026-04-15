@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("costrutti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b824671f4cd628e0a24d59451daf9728e9e82a2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5350842dcf22016894e128bf32742dc90655a55")]
 [assembly: System.Reflection.AssemblyProductAttribute("costrutti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("costrutti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

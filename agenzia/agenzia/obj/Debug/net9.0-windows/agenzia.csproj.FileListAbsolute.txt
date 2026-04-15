@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\bin\Debug\net9.0-windows\agenzia.exe
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\bin\Debug\net9.0-windows\agenzia.deps.json
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\bin\Debug\net9.0-windows\agenzia.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\bin\Debug\net9.0-windows\agenzia.dll
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\bin\Debug\net9.0-windows\agenzia.pdb
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.dll
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\refint\agenzia.dll
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.pdb
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\agenzia.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\agenzia\agenzia\obj\Debug\net9.0-windows\ref\agenzia.dll

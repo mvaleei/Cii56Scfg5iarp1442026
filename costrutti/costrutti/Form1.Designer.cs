@@ -34,6 +34,8 @@
             label2 = new Label();
             nmp_anni = new NumericUpDown();
             button2 = new Button();
+            button3 = new Button();
+            button4 = new Button();
             ((System.ComponentModel.ISupportInitialize)nmp_anni).BeginInit();
             SuspendLayout();
             // 
@@ -89,11 +91,33 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // button3
+            // 
+            button3.Location = new Point(102, 478);
+            button3.Name = "button3";
+            button3.Size = new Size(372, 115);
+            button3.TabIndex = 6;
+            button3.Text = "Ciclo while";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // button4
+            // 
+            button4.Location = new Point(700, 478);
+            button4.Name = "button4";
+            button4.Size = new Size(304, 115);
+            button4.TabIndex = 7;
+            button4.Text = "For con indice";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1105, 450);
+            ClientSize = new Size(1105, 686);
+            Controls.Add(button4);
+            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(nmp_anni);
             Controls.Add(label2);
@@ -115,5 +139,7 @@
         private Label label2;
         private NumericUpDown nmp_anni;
         private Button button2;
+        private Button button3;
+        private Button button4;
     }
 }

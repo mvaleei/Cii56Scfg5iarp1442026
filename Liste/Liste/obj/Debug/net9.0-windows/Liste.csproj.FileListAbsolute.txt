@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\bin\Debug\net9.0-windows\Liste.exe
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\bin\Debug\net9.0-windows\Liste.deps.json
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\bin\Debug\net9.0-windows\Liste.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\bin\Debug\net9.0-windows\Liste.dll
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\bin\Debug\net9.0-windows\Liste.pdb
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.dll
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\refint\Liste.dll
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.pdb
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\Liste.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\Liste\Liste\obj\Debug\net9.0-windows\ref\Liste.dll

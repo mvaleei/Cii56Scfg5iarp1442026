@@ -97,5 +97,25 @@ namespace costrutti
 
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string entrare = "s";
+
+            while (entrare.Equals("s"))
+            {
+                MessageBox.Show("Mi trovo nel ciclo while");
+                entrare = "n";
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //int alessio = i;
+            for (int indice = 1; indice <= 20; indice++)
+            {
+                MessageBox.Show("Il valore attuale dell'indice è:" + indice);
+            }
+        }
     }
 }
