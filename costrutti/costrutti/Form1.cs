@@ -40,7 +40,7 @@ namespace costrutti
                 MessageBox.Show("Città non gestita");
             }
 
-                
+
             citta = "Bologna";
 
 
@@ -50,6 +50,50 @@ namespace costrutti
             }
 
 
+
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int anniDigitati = System.Convert.ToInt16(nmp_anni.Value);
+
+            /*
+            if (anniDigitati < 12)
+            {
+                MessageBox.Show("Non assicurabile");
+            }
+            else if (anniDigitati >= 12 && anniDigitati <= 17)
+            {
+                MessageBox.Show("Premio relativo ai teen ager");
+            }
+            else if (anniDigitati >= 18 && anniDigitati <= 25)
+            {
+                MessageBox.Show("Premio relativo ai ragazzi");
+            }
+            else if (anniDigitati >= 26 && anniDigitati <= 50)
+            {
+                MessageBox.Show("Premio relativo aagli adulti");
+            }
+            else if (anniDigitati > 50 && anniDigitati <= 70)
+            {
+                MessageBox.Show("Premio relativo ai grandi");
+            }
+            else
+            {
+                MessageBox.Show("Premio non conveniente");
+            }
+            */
+
+
+            if (anniDigitati == 18 && anniDigitati == 25)
+            {
+                MessageBox.Show("Appartieni ai ragazzi");
+            }
+            else
+            {
+                MessageBox.Show("Altro tipo di persona");
+            }
 
 
         }

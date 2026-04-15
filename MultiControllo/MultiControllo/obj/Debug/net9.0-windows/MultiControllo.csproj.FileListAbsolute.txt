@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\bin\Debug\net9.0-windows\MultiControllo.exe
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\bin\Debug\net9.0-windows\MultiControllo.deps.json
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\bin\Debug\net9.0-windows\MultiControllo.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\bin\Debug\net9.0-windows\MultiControllo.dll
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\bin\Debug\net9.0-windows\MultiControllo.pdb
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.dll
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\refint\MultiControllo.dll
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.pdb
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\MultiControllo.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\MultiControllo\MultiControllo\obj\Debug\net9.0-windows\ref\MultiControllo.dll

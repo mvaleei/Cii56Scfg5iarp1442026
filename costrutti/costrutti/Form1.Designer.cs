@@ -31,6 +31,10 @@
             button1 = new Button();
             label1 = new Label();
             txt_citta = new TextBox();
+            label2 = new Label();
+            nmp_anni = new NumericUpDown();
+            button2 = new Button();
+            ((System.ComponentModel.ISupportInitialize)nmp_anni).BeginInit();
             SuspendLayout();
             // 
             // button1
@@ -59,16 +63,46 @@
             txt_citta.Size = new Size(372, 47);
             txt_citta.TabIndex = 2;
             // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(700, 104);
+            label2.Name = "label2";
+            label2.Size = new Size(262, 41);
+            label2.TabIndex = 3;
+            label2.Text = "Inserisci i tuoi anni";
+            // 
+            // nmp_anni
+            // 
+            nmp_anni.Location = new Point(700, 172);
+            nmp_anni.Name = "nmp_anni";
+            nmp_anni.Size = new Size(304, 47);
+            nmp_anni.TabIndex = 4;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(700, 249);
+            button2.Name = "button2";
+            button2.Size = new Size(304, 104);
+            button2.TabIndex = 5;
+            button2.Text = "Controlla anni - AND/OR";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(630, 450);
+            ClientSize = new Size(1105, 450);
+            Controls.Add(button2);
+            Controls.Add(nmp_anni);
+            Controls.Add(label2);
             Controls.Add(txt_citta);
             Controls.Add(label1);
             Controls.Add(button1);
             Name = "Form1";
             Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)nmp_anni).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -78,5 +112,8 @@
         private Button button1;
         private Label label1;
         private TextBox txt_citta;
+        private Label label2;
+        private NumericUpDown nmp_anni;
+        private Button button2;
     }
 }

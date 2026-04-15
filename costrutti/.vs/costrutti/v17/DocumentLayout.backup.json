@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{75D9E684-2C9D-473A-9293-C28003892DC5}|costrutti\\costrutti.csproj|solutionrelative:costrutti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D9E684-2C9D-473A-9293-C28003892DC5}|costrutti\\costrutti.csproj|c:\\disco_d\\cisciarp14_04_2026\\costrutti\\costrutti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{75D9E684-2C9D-473A-9293-C28003892DC5}|costrutti\\costrutti.csproj|C:\\Disco_D\\CiSciarp14_04_2026\\costrutti\\costrutti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{75D9E684-2C9D-473A-9293-C28003892DC5}|costrutti\\costrutti.csproj|solutionrelative:costrutti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,9 +42,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\costrutti\\costrutti\\Form1.cs",
               "RelativeDocumentMoniker": "costrutti\\Form1.cs",
-              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\costrutti\\costrutti\\Form1.cs*",
-              "RelativeToolTip": "costrutti\\Form1.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\costrutti\\costrutti\\Form1.cs",
+              "RelativeToolTip": "costrutti\\Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwF8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T14:21:46.127Z",
               "EditorCaption": ""
@@ -55,8 +55,8 @@
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\costrutti\\costrutti\\Form1.cs",
               "RelativeDocumentMoniker": "costrutti\\Form1.cs",
-              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\costrutti\\costrutti\\Form1.cs [Progettazione]*",
-              "RelativeToolTip": "costrutti\\Form1.cs [Progettazione]*",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\costrutti\\costrutti\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "costrutti\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T14:15:41.694Z",
               "EditorCaption": " [Progettazione]"
