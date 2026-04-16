@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\bin\Debug\net9.0-windows\classi.exe
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\bin\Debug\net9.0-windows\classi.deps.json
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\bin\Debug\net9.0-windows\classi.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\bin\Debug\net9.0-windows\classi.dll
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\bin\Debug\net9.0-windows\classi.pdb
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.dll
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\refint\classi.dll
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.pdb
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\classi.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\classi\classi\obj\Debug\net9.0-windows\ref\classi.dll

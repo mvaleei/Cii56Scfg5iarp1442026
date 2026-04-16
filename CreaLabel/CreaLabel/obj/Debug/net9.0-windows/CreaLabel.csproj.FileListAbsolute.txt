@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\bin\Debug\net9.0-windows\CreaLabel.exe
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\bin\Debug\net9.0-windows\CreaLabel.deps.json
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\bin\Debug\net9.0-windows\CreaLabel.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\bin\Debug\net9.0-windows\CreaLabel.dll
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\bin\Debug\net9.0-windows\CreaLabel.pdb
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.dll
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\refint\CreaLabel.dll
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.pdb
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\CreaLabel.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\CreaLabel\CreaLabel\obj\Debug\net9.0-windows\ref\CreaLabel.dll
