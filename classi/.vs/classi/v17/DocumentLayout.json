@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Disco_D\\CiSciarp14_04_2026\\classi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27C9D55D-795D-429C-9949-2A9E3AB858CE}|classi\\classi.csproj|c:\\disco_d\\cisciarp14_04_2026\\classi\\classi\\pennarello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C9D55D-795D-429C-9949-2A9E3AB858CE}|classi\\classi.csproj|solutionrelative:classi\\pennarello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27C9D55D-795D-429C-9949-2A9E3AB858CE}|classi\\classi.csproj|c:\\disco_d\\cisciarp14_04_2026\\classi\\classi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C9D55D-795D-429C-9949-2A9E3AB858CE}|classi\\classi.csproj|solutionrelative:classi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C9D55D-795D-429C-9949-2A9E3AB858CE}|classi\\classi.csproj|c:\\disco_d\\cisciarp14_04_2026\\classi\\classi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C9D55D-795D-429C-9949-2A9E3AB858CE}|classi\\classi.csproj|solutionrelative:classi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,28 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pennarello.cs",
-              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\classi\\classi\\pennarello.cs",
-              "RelativeDocumentMoniker": "classi\\pennarello.cs",
-              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\classi\\classi\\pennarello.cs",
-              "RelativeToolTip": "classi\\pennarello.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAzwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T13:59:57.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\classi\\classi\\Form1.cs",
               "RelativeDocumentMoniker": "classi\\Form1.cs",
               "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\classi\\classi\\Form1.cs",
               "RelativeToolTip": "classi\\Form1.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwC4AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAuwKYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T13:57:24.518Z",
+              "WhenOpened": "2026-04-17T10:21:23.637Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\classi\\classi\\Form1.cs",
+              "RelativeDocumentMoniker": "classi\\Form1.cs",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\classi\\classi\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "classi\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:44:38.365Z",
+              "EditorCaption": " [Progettazione]"
             }
           ]
         },
