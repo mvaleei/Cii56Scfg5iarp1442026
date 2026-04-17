@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fatturazione")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc0d2b57fdf995d41711787cc4eba4221075fcd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e152ba52b02b0408633dd8074a5f4cd0c3d34837")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fatturazione")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fatturazione")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|c:\\disco_d\\cisciarp14_04_2026\\ereditarieta\\ereditarieta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|solutionrelative:ereditarieta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|c:\\disco_d\\cisciarp14_04_2026\\ereditarieta\\ereditarieta\\trattori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|solutionrelative:ereditarieta\\trattori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|c:\\disco_d\\cisciarp14_04_2026\\ereditarieta\\ereditarieta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|solutionrelative:ereditarieta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|c:\\disco_d\\cisciarp14_04_2026\\ereditarieta\\ereditarieta\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|solutionrelative:ereditarieta\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|c:\\disco_d\\cisciarp14_04_2026\\ereditarieta\\ereditarieta\\vettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E290098-8690-49EE-A25D-E839EE7A81B5}|Ereditarieta\\Ereditarieta.csproj|solutionrelative:ereditarieta\\vettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trattori.cs",
+              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Trattori.cs",
+              "RelativeDocumentMoniker": "Ereditarieta\\Trattori.cs",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Trattori.cs*",
+              "RelativeToolTip": "Ereditarieta\\Trattori.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:48:05.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Moto.cs",
+              "RelativeDocumentMoniker": "Ereditarieta\\Moto.cs",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Moto.cs",
+              "RelativeToolTip": "Ereditarieta\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:47:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vettura.cs",
+              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Vettura.cs",
+              "RelativeDocumentMoniker": "Ereditarieta\\Vettura.cs",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Vettura.cs",
+              "RelativeToolTip": "Ereditarieta\\Vettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:45:52.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Form1.cs",
+              "RelativeDocumentMoniker": "Ereditarieta\\Form1.cs",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Form1.cs*",
+              "RelativeToolTip": "Ereditarieta\\Form1.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:35:12.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Form1.cs",
+              "RelativeDocumentMoniker": "Ereditarieta\\Form1.cs",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Ereditarieta\\Ereditarieta\\Form1.cs [Progettazione]*",
+              "RelativeToolTip": "Ereditarieta\\Form1.cs [Progettazione]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:33:20.749Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f6c90d9a-1aa8-32e5-baac-467b7262213c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

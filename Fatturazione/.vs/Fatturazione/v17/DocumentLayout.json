@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|solutionrelative:fatturazione\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|c:\\disco_d\\cisciarp14_04_2026\\fatturazione\\fatturazione\\fattura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|solutionrelative:fatturazione\\fattura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|c:\\disco_d\\cisciarp14_04_2026\\fatturazione\\fatturazione\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|solutionrelative:fatturazione\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|c:\\disco_d\\cisciarp14_04_2026\\fatturazione\\fatturazione\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|C:\\Disco_D\\CiSciarp14_04_2026\\Fatturazione\\fatturazione\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|solutionrelative:fatturazione\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|c:\\disco_d\\cisciarp14_04_2026\\fatturazione\\fatturazione\\fatturazione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09ACA602-881A-4604-ACBF-F8BBE86AF3FB}|Fatturazione\\Fatturazione.csproj|solutionrelative:fatturazione\\fatturazione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +46,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fatturazione",
+              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\Fatturazione\\Fatturazione\\Fatturazione.csproj",
+              "RelativeDocumentMoniker": "Fatturazione\\Fatturazione.csproj",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Fatturazione\\Fatturazione\\Fatturazione.csproj",
+              "RelativeToolTip": "Fatturazione\\Fatturazione.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T13:02:32.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Fattura.cs",
-              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\Fatturazione\\Fatturazione\\Fattura.cs",
-              "RelativeDocumentMoniker": "Fatturazione\\Fattura.cs",
-              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Fatturazione\\Fatturazione\\Fattura.cs",
-              "RelativeToolTip": "Fatturazione\\Fattura.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Disco_D\\CiSciarp14_04_2026\\Fatturazione\\Fatturazione\\Tools.cs",
+              "RelativeDocumentMoniker": "Fatturazione\\Tools.cs",
+              "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Fatturazione\\Fatturazione\\Tools.cs",
+              "RelativeToolTip": "Fatturazione\\Tools.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T12:16:55.799Z",
+              "WhenOpened": "2026-04-17T13:02:55.845Z",
               "EditorCaption": ""
             },
             {
@@ -73,7 +90,7 @@
               "RelativeDocumentMoniker": "Fatturazione\\Form1.cs",
               "ToolTip": "C:\\Disco_D\\CiSciarp14_04_2026\\Fatturazione\\Fatturazione\\Form1.cs",
               "RelativeToolTip": "Fatturazione\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwCoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T12:11:14.527Z",
               "EditorCaption": ""

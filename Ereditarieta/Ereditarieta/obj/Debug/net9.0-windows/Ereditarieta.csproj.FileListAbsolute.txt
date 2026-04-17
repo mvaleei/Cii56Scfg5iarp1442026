@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\bin\Debug\net9.0-windows\Ereditarieta.exe
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\bin\Debug\net9.0-windows\Ereditarieta.deps.json
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\bin\Debug\net9.0-windows\Ereditarieta.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\bin\Debug\net9.0-windows\Ereditarieta.dll
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\bin\Debug\net9.0-windows\Ereditarieta.pdb
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.csproj.GenerateResource.cache
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.dll
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\refint\Ereditarieta.dll
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.pdb
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\Ereditarieta.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\Ereditarieta\Ereditarieta\obj\Debug\net9.0-windows\ref\Ereditarieta.dll

@@ -56,5 +56,17 @@ namespace Fatturazione
 
         }
 
+        public string riepilogo()
+        {
+            string torna = cliente;
+            torna += "-";
+            torna += importo;
+            torna += "-";
+            torna += tipo;
+            torna += "-";
+            torna += saldo;
+            return torna;
+        }
+
     }
 }
