@@ -1,0 +1,17 @@
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\bin\Debug\net9.0-windows\Fatturazione.exe
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\bin\Debug\net9.0-windows\Fatturazione.deps.json
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\bin\Debug\net9.0-windows\Fatturazione.runtimeconfig.json
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\bin\Debug\net9.0-windows\Fatturazione.dll
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\bin\Debug\net9.0-windows\Fatturazione.pdb
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.AssemblyInfoInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.AssemblyInfo.cs
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.csproj.CoreCompileInputs.cache
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.sourcelink.json
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.dll
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\refint\Fatturazione.dll
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.pdb
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.genruntimeconfig.cache
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\ref\Fatturazione.dll
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.Form1.resources
+C:\Disco_D\CiSciarp14_04_2026\Fatturazione\Fatturazione\obj\Debug\net9.0-windows\Fatturazione.csproj.GenerateResource.cache
